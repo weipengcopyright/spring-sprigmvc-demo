@@ -1,2 +1,2 @@
-# spring-sprigmvc-demo
+# spring-springmvc-demo
 spring springmvc restful
